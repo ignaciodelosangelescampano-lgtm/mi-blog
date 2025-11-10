@@ -1,0 +1,12 @@
+
+title: Mi Blog
+author: Nacho
+description: Blog estático en Jekyll para la actividad de Desarrollo de Aplicaciones en Red.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/page:num/"
